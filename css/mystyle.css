@@ -1,0 +1,84 @@
+body{
+
+	background-color:#ddd;
+
+}
+.bgmavi{
+
+	background:rgba(227,227,227,.5);
+	
+
+}
+
+.maxheight{
+	
+	max-height:530px;
+	width:100%;
+
+}
+.paddingbottom{
+
+	padding-bottom:25px;
+
+}
+.minheight{
+	min-height:530px;
+	width:100%;
+	
+
+}
+.marginleft100{
+
+	margin-left:100px;
+
+}
+.minheight350{
+
+	min-height:350px;
+
+}
+.colorsiyah{
+
+	color:#000;
+}
+.bgsiyahop{
+
+	background:rgba(0,0,0,.5);
+
+}
+.bgozel{
+
+	background-color:#6AB9A8;
+	
+	
+
+}
+.margineksi{
+
+	margin-top:-20px;
+}
+.colorozel{
+	
+	color:#B54949 !important;
+
+}
+.margintop{
+
+	margin-top:20px;
+
+}
+.bgsiyah{
+
+	background-color:black;
+
+}
+.border0{
+
+	border:none;
+
+}
+.bordermavi{
+
+	border:1px solid #ddd;
+
+}
